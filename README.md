@@ -33,3 +33,19 @@ Adquirir experiencia práctica orientada a roles de:
 - Sysadmin Junior (en formación)
 
 Todo el contenido está basado en pruebas reales realizadas sobre el servidor.
+
+
+## Sobre mí
+
+Trabajo en el área de IT de una obra social, realizando tareas de soporte técnico
+y mantenimiento diario de sistemas.
+
+Mis actividades incluyen:
+- Resolución de problemas cotidianos de usuarios
+- Control y verificación de backups
+- Instalación y configuración de Windows Server
+- Diagnóstico de hardware y almacenamiento
+- Pruebas en servidores físicos en entorno de laboratorio
+
+Actualmente me encuentro en formación práctica orientada a roles de
+Soporte Técnico L2 / Infraestructura IT Junior.
